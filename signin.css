@@ -1,0 +1,15 @@
+.img{
+    background-image: url(amazon\ logob.png);
+    height: 100px;
+    width: 150px;
+    align-items: center;
+    background-size: cover;
+    justify-items: center;
+    /* margin-top: 5px; */
+    margin-left: 40%;
+    margin-right: 45%;
+}
+
+/* .signin-box{ */
+    
+/* } */
